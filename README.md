@@ -3,7 +3,7 @@
 
 - 🌱 I’m Currently **a Student at Kongu Engineering College**
 
-- 👨‍💻 All of my projects are available at [https://github.com/premamohanraj](https://github.com/premamohanraj)
+- 👨‍💻 All of my projects are available at [https://github.com/premamanjula1](https://github.com/premamanjula1)
 
 - 📫 How to reach me **premamanjula2001@gmail.com**
 
